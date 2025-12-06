@@ -8,7 +8,7 @@ subtitle: '记录生活，分享热爱'
 description: '一个关于人生旅程感悟的博客'
 keywords:
 author: 陈英华
-language: en中文
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: keep
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

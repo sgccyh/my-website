@@ -1,0 +1,16 @@
+# 站点图标
+favicon:/favicon.ico
+
+#头像（放在 source/images/）
+avator:/images/avstor.jpg
+
+#菜单导航
+menu:
+  首页: /
+  归档: /archives
+  关于: /about
+
+#社交链接
+social:
+  GitHub: https//github.com/sgccyh
+  Email: mailto:sgccyh@gmail.com
