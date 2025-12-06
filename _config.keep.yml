@@ -12,10 +12,10 @@ base_info:
   primary_color: "#0066cc"
 
   # Blog website title
-  title: Keep Theme
+  title: 陈英华的思维杂货铺
 
   # Blog website author name
-  author: Keep Team
+  author: 陈英华
 
   # Author avatar, You can use local image path or image link
   avatar: /images/avatar.svg
@@ -75,15 +75,15 @@ social_contact:
     # If you want to click open the picture, you need to add a prefix `img | `,
     # at the same time change your link to the image link.
     # e.g. `weixin: img | ./images/qrcode.png`
-    github:          # GitHub
-    weixin:          # WeChat
-    qq:              # QQ
+    github: https//github.com/sgccyh         # GitHub
+    weixin: yinghua-chen          # WeChat
+    qq: 969914464              # QQ
     weibo:           # WeiBo
     zhihu:           # ZhiHu
     twitter:         # Twitter
     x:               # X
     facebook:        # Facebook
-    email:           # Email
+    email: sgccyh@gmail.com           # Email
 
 
 # ---------------------------------------------------------------------------------------
@@ -321,10 +321,10 @@ footer:
   record:
     enable: false        # Option values: true | false
     list:
-      - code:            # record code of your website
+      - code: 京ICP备2025154172        # record code of your website
         link:            # record link of your website, Can be null
       # e.g.
-      # - code: ICP 001
+      # code: 京ICP备2025154172号
       # - link: https://beian.miit.gov.cn
 
 
